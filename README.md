@@ -1,16 +1,94 @@
-## Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ankit+Anuragi;MERN+Stack+Developer;C%2B%2B+Programmer;DSA+Learner" />
+</p>
 
-<!--
-**ankitanuragi1/ankitanuragi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ankit Anuragi</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+💻 MERN Stack Developer | C++ Programmer | DSA Learner
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Final Year B.Sc. Computer Science student passionate about Full Stack Web Development and Problem Solving. I enjoy building scalable web applications using the MERN Stack while continuously improving my Data Structures & Algorithms skills.
+
+---
+## 🏆 Badges
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Developer-MERN%20Stack-blue?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Language-C%2B%2B-orange?style=for-the-badge&logo=cplusplus"/>
+
+<img src="https://img.shields.io/badge/DSA-Learning-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Student-Computer%20Science-purple?style=for-the-badge"/>
+
+</p>
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,typescript,react,tailwindcss, bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React
+- Backend Development
+- REST APIs
+- MongoDB
+- DSA
+
+---
+
+## 🎯 2026 Goals
+
+- Build 15+ Projects
+- Solve 500+ DSA Problems
+- Contribute to Open Source
+- Get Software Developer Internship
+
+---
+## 🚀 Featured Projects Cards
+
+Coming Soon...
+---
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ankitanuragi1&show_icons=true&theme=tokyonight" />
+</p>
+---
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitanuragi1&layout=compact&theme=tokyonight" />
+</p>
+---
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ankitanuragi1&theme=tokyonight" />
+</p>
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ankitanuragi1">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankitanuragi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ankitanuragi10@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
