@@ -10,7 +10,7 @@
 
 I am a Final Year B.Sc. Computer Science student passionate about Full Stack Web Development and Problem Solving. I enjoy building scalable web applications using the MERN Stack while continuously improving my Data Structures & Algorithms skills.
 
----
+
 ## 🏆 Badges
 
 <p align="left">
@@ -24,15 +24,13 @@ I am a Final Year B.Sc. Computer Science student passionate about Full Stack Web
 <img src="https://img.shields.io/badge/Student-Computer%20Science-purple?style=for-the-badge"/>
 
 </p>
----
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,typescript,react,tailwindcss, bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,typescript,react,tailwindcss,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
 </p>
 
----
 
 ## 📚 Currently Learning
 
@@ -42,7 +40,6 @@ I am a Final Year B.Sc. Computer Science student passionate about Full Stack Web
 - MongoDB
 - DSA
 
----
 
 ## 🎯 2026 Goals
 
@@ -51,29 +48,29 @@ I am a Final Year B.Sc. Computer Science student passionate about Full Stack Web
 - Contribute to Open Source
 - Get Software Developer Internship
 
----
+
 ## 🚀 Featured Projects Cards
 
 Coming Soon...
----
+
 ## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ankitanuragi1&show_icons=true&theme=tokyonight" />
 </p>
----
+
 ## 💻 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitanuragi1&layout=compact&theme=tokyonight" />
 </p>
----
+
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ankitanuragi1&theme=tokyonight" />
 </p>
----
+
 
 ## 📫 Connect With Me
 
