@@ -56,19 +56,19 @@ Coming Soon...
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ankitanuragi1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankitanuragi1&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitanuragi1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankitanuragi1&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ankitanuragi1&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitanuragi1&theme=tokyonight" />
 </p>
 
 
