@@ -1,3 +1,9 @@
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ankitanuragi1&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<!-- Typing Animation -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ankit+Anuragi;MERN+Stack+Developer;C%2B%2B+Programmer;DSA+Learner" />
 </p>
